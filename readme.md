@@ -6,7 +6,7 @@ A compact 4x10 (40%) ortho-linear DIY keyboard kit.
 
 * Keyboard Maintainer: [pabile](https://github.com/pabile)
 * Hardware Supported: Pabile P40 PCB, Pro Micro, ALPS / MX Switches
-* Hardware Availability: [Info at pabileonline.blogspot.com](https://pabileonline.blogspot.com/search/label/pabile40)
+* Hardware Availability: [pabileonline.blogspot.com](https://pabileonline.blogspot.com/search/label/pabile40)
 
 Make example for this keyboard (after setting up your build environment):
 
